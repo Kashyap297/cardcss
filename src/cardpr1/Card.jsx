@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './style.css'
+import './card.css'
 import img1 from './image/1.jpg'
 import img2 from './image/2.jpg'
 import img3 from './image/3.jpg'
